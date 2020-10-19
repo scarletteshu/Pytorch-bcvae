@@ -22,12 +22,12 @@ results_path : './results/'
 models_path  : './models/'
 
 #model 1
-model_name : bcvae2D
-sch_gamma  : 0.95
-lr         : 5e-3
-epoch      : 80
-gamma      : 10
-beta       : 7
+model_name   : bcvae2D
+sch_gamma    : 0.95
+lr           : 5e-3
+epoch        : 80
+gamma        : 10
+beta         : 7
 max_capacity      : 25
 capacity_max_iter : 1e5
 ```
