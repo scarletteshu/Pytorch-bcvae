@@ -81,12 +81,12 @@ run.py
 >note 1 : plot file in python is not included for now, will be updated in the future<br>
 >note 2 : for github storage concern, ./results only inlcudes partial results
 # Papers
-<a href="https://openreview.net/pdf?id=Sy2fzU9gl"> beta-VAE: Learning Basic Visual Concepts with a Constrained Variational Framework </a>
+<a href="https://openreview.net/pdf?id=Sy2fzU9gl"> beta-VAE: Learning Basic Visual Concepts with a Constrained Variational Framework </a><br>
 <a href="https://arxiv.org/pdf/1804.03599.pdf">Understanding disentangling in β-VAE</a>
 # Reference
 ### dataset refered to:
-<a href="https://deepmind.com/research/open-source/dsprites-disentanglement-testing-sprites-dataset">dsprites official </a>
-or
+<a href="https://deepmind.com/research/open-source/dsprites-disentanglement-testing-sprites-dataset">dsprites official </a><br>
+or<br>
 <a href="https://github.com/deepmind/dsprites-dataset">dsprites github ver</a>, which disclaims
 ```
 The images were generated using the LOVE framework, which is licenced under zlib/libpng licence:
@@ -131,6 +131,6 @@ distribution.
   year = {2020},
   publisher = {GitHub},
   journal = {GitHub repository},
-  howpublished = {\url{hhttps://github.com/scarletteshu/Pytorch-bcvae.git}}
+  howpublished = {https://github.com/scarletteshu/Pytorch-bcvae.git}
 }
 ```
