@@ -134,3 +134,5 @@ distribution.
   howpublished = {https://github.com/scarletteshu/Pytorch-bcvae.git}
 }
 ```
+# Note
+full datasets and final results are not uploaded
