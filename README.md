@@ -1,5 +1,5 @@
 # Pytorch-bcvae
-Pytorch implement of bvae、fvae<br>
+Pytorch implement of bvae<br>
 **version 2**<br>
 # Enviornment
 ```
